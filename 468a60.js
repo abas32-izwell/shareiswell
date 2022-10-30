@@ -1,4 +1,4 @@
-	atOptions = {
+	 atOptions = {
 		'key' : '3bafead10164bb0279b8172b5e94da67',
 		'format' : 'iframe',
 		'height' : 60,
